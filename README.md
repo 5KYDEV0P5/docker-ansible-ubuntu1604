@@ -1,7 +1,7 @@
 # Ubuntu 16.04 Ansible Docker Image
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
-<!-- [![Docker Automated build](https://img.shields.io/docker/automated/skydevops/skydevops-ubuntu1604-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/skydevops/skydevops-ubuntu1604-ansible/) -->
+[![Docker Automated build](https://img.shields.io/docker/automated/skydevops/skydevops-ubuntu1604-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/skydevops/skydevops-ubuntu1604-ansible/)
 
 Ubuntu 16.04 Docker container for testing Ansible playbook and role.
 
